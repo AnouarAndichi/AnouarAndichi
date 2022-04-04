@@ -1,12 +1,3 @@
-Hi, I’m @AnouarAndichiPXL 👋 <br><br>
-I’m interested in Networking and programming<br>
-I’m an Network Systems Administrator and i’m currently learning programming 🌱<br><br>
-How to reach me 📫 :
-
-Facebook : Anwar Andichi:<br>
-Intagram : Anwar.Dreno
-
-
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQFumN6Z0C26Sg/profile-displaybackgroundimage-shrink_200_800/0/1606150784344?e=1654732800&v=beta&t=ODTfxYh1cne2V5wkoWmRmu6505xy2oTvJHxS3zc8fkc">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anouarandichi/) 
@@ -15,7 +6,8 @@ Intagram : Anwar.Dreno
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/AnouarAndichiPXL)  ![Visits Badge](https://badges.pufler.dev/visits/AnouarAndichiPXL/AnouarAndichiPXL?style=for-the-badge) 
 
 ### Hi 👋 
-I am Pratik! I am working on projects related to Networking and Programming.
+Hi, I’m @AnouarAndichiPXL 👋 <br><br>
+- 🤝 I am Anouar Andichi I am working on projects related to Networking and Programming.
 - 👨🏽‍💻 I’m an Network Systems Administrator and i’m currently learning programming 🌱
 - 🌐 Visit my [porfolio website](https://anwar-andichi.io/) for complete background and contact.
 
