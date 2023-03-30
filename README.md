@@ -4,7 +4,7 @@
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://anouar.cloud)
 
  
-## Hi, I’m @AnouarAndichiPXL 👋 <br><br>
+## Hi, I’m @AnouarAndichi 👋 <br><br>
 - 🤝 I am Anouar Andichi I am working on projects related to Networking and Programming.
 - 👨🏽‍💻 I’m an Network Systems Administrator and i’m currently learning programming 🌱
 - 🌐 Visit my [porfolio website](https://anwar-andichi.io/) for complete background and contact.
