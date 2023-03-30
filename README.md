@@ -6,8 +6,8 @@
  
 ## Hi, I’m @AnouarAndichi 👋 <br><br>
 - 🤝 I am Anouar Andichi I am working on projects related to Networking and Programming.
-- 👨🏽‍💻 I’m an Network Systems Administrator and i’m currently learning programming 🌱
-- 🌐 Visit my [porfolio website](https://anwar-andichi.io/) for complete background and contact.
+- 👨🏽‍💻 I’m an Network Systems Administrator and a developer 🌱
+- 🌐 Visit my [porfolio website](https://anouar.cloud) for complete background and contact.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=AnouarAndichi&show_icons=true&theme=radical&line_height=33">
