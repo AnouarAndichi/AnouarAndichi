@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anouarandichi/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/anwar_dreno/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/AnwarRiffian) 
-[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/AnouarAndichiPXL)  ![Visits Badge](https://badges.pufler.dev/visits/AnouarAndichiPXL/AnouarAndichiPXL?style=for-the-badge) 
+[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/AnouarAndichiPXL)
 
  
 ## Hi, I’m @AnouarAndichiPXL 👋 <br><br>
