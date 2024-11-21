@@ -1,6 +1,9 @@
-<div align="center">
+
+<div align="left">
   <img src="https://profile-counter.glitch.me/AnouarAndichi/count.svg?"  />
 </div>
+
+###
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anouarandichi/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/anwar_dreno/)
