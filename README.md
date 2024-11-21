@@ -1,11 +1,12 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AnouarAndichi/count.svg?"  />
+</div>
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anouarandichi/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/anwar_dreno/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/AnwarRiffian)
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://anouar.cloud)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AnouarAndichi/count.svg?"  />
-</div>
 
 ###
 
@@ -15,24 +16,6 @@
 
 <p align="left">I am Anouar Andichi, a highly skilled Full-Stack Developer based in Belgium. I am driven by a passion for coding, open source technology, and the web platform. My expertise encompasses a range of technical competencies, including the ability to quickly learn new programming languages, apply innovative solutions to complex problems, implement responsive design principles, optimize websites, and utilize Model View Controller (MVC) methodologies for code organization. ❤️</p>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/anouarandichi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@RifCodex" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="mailto:anouar.andichi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="@rif_codex " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
 <h2 align="left">I code with</h2>
 
