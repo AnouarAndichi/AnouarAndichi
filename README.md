@@ -66,8 +66,6 @@
 
 ###
 
-<h2 align="left">My Github</h2>
-
 <h2 align="left">Some fun ;)</h2>
 
 ###
